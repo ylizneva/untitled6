@@ -1,0 +1,10 @@
+3
+Kalle Anka
+1980
+kalle@anka
+Piter Pen
+1950
+pp@pen
+Tom
+1920
+t@m
